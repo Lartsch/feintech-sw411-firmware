@@ -3,6 +3,8 @@ A reverse engineered, custom firmware for the Feintech SW411 HDMI switch.
 
 **AI disclosure:** This project was primarily worked on with Fable 5.1
 
+**DISCLAIMER:** FLASH AT YOUR OWN RISK
+
 ## What is this about?
 
 The FeinTech SW411 is an HDMI 2.1 switcher (4 inputs, 1 output) that supports 8K@60Hz and 4K@120Hz video with supported features like CEC, HDCP, VRR, ALLM, and Dolby Vision. It also acts as an audio extractor featuring dedicated HDMI Audio-Only, Toslink, and 3.5mm AUX outputs, plus full eARC/ARC pass-through for formats like Dolby Atmos.
